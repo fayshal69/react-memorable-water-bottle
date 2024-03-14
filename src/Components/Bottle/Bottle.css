@@ -1,0 +1,17 @@
+.bottle {
+    border: 2px solid turquoise;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.bottle img {
+    width: 200px;
+}
+
+.bottle button {
+    background-color: rgb(28, 189, 28);
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+}
